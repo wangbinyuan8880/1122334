@@ -1,0 +1,2 @@
+dictionary = {"Q1":"22654613","Q2":"32156498"}
+print(dictionary.get("Q1"))
